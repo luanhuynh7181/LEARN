@@ -7,4 +7,5 @@
 ## - Quân 
 ## - Trần Đình Phúc
 ## - Trịnh Ngọc Hiếu
-## - Trọng Nguyễn  
+## - Trọng Nguyễn
+## - Đức Hải  
