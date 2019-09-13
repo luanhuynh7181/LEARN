@@ -6,7 +6,7 @@
 
 ## - Huỳnh Vĩnh Luân
 
-## - Nhật Cao
+## - Cao Ba Nhat
 
 ## - Bùi Ngọc Ánh
 
